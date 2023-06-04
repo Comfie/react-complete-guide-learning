@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div>
-      <h2>Let's get started! Comfy</h2>
+      <h2>Let's get started! Comfort Nyatsine</h2>
       <Expenses expense={expenses} />
     </div>
   );
